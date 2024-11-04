@@ -1,0 +1,11 @@
+[package]
+name = "rusty_store"
+version = "0.1.0"
+authors = ["vlevko"]
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "rusty_store"
+path = "main.rs"
